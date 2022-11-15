@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: [tinklai.lt]
+theme:
+  name: null
+  custom_dir: 'cinder'
+nav:
+  - Home: index.md
